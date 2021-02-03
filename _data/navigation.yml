@@ -1,6 +1,8 @@
 # main links
 main:
-  - title: "Projects"
+  - title: "About"
+    url: https://Glenn-Moss/Glenn-Moss.io/about/
+    title: "Projects"
     url: /about/
   - title: "Accolades"
     url: /Accolades/
