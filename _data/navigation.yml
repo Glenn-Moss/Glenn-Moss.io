@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: https://google.com
-    title: "Projects"
+  - title: "Projects"
     url: https://Glenn-Moss.github.io/Glenn-Moss.io/about/
   - title: "Accolades"
     url: /Accolades/
